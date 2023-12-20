@@ -1,6 +1,6 @@
-- ✨ 20 years
+- ✨ 23 years
 - 🌏 Brazilian
-- 💻 Management Information Technology
-- ✔  Future Information Technology Manager
+- 💻 Computer Engineer
+
 
 
